@@ -13,6 +13,8 @@
     :redmine_release_id: 250
   :3.5.1:
     :redmine_release_id: 329
+  :3.5.2:
+    :redmine_release_id: 339
 :code_name: Schwarzbier
 :repos:
   :katello:
@@ -28,7 +30,7 @@
     :repo: https://github.com/Katello/katello-installer.git
     :version_branch: true
   :hammer-cli-katello:
-    :branch: 0.11.5
+    :branch: 0.11.6
     :repo: https://github.com/Katello/hammer-cli-katello.git
   :katello-packaging:
     :branch: KATELLO-3.5
@@ -41,7 +43,7 @@
     :branch: 6.1.8
     :repo: https://github.com/Katello/bastion
   :puppet-pulp:
-    :branch: 5.1.0
+    :branch: 5.4.0
     :repo: https://github.com/Katello/puppet-pulp
   :puppet-katello:
     :branch: 7.0.0
